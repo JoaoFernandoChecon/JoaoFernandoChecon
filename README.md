@@ -20,6 +20,7 @@ Como Gerente de Produto na SURE, uma fintech inovadora de pagamentos eletrônico
 ### :relaxed: Um Equilíbrio Pessoal</h2>
 Além do meu envolvimento na tecnologia, encontro equilíbrio e inspiração em Vitória, no Espírito Santo.</p>
 
+<hr>
 
 <div>
 <a href="https://github.com/JoaoFernandoChecon">
