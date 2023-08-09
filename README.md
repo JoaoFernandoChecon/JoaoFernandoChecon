@@ -4,9 +4,6 @@
 
 ### :walking: Um caminho fora dos padrões</h2>
 Minha trajetória acadêmica e profissional sempre esteve com um pé no campo do direito, onde aprendi sobre relações sociais e formalismos legais, e outro na tecnologia, tanto me mantendo atualizado a cada avanço, como no trabalhando desenvolvendo produtos de alto impacto.</p>
-
-### :walking: Um caminho fora dos padrões</h2>
-Minha trajetória acadêmica e profissional sempre esteve com um pé no campo do direito, onde aprendi sobre relações sociais e formalismos legais, e outro na tecnologia, tanto me mantendo atualizado a cada avanço, como no trabalhando desenvolvendo produtos de alto impacto.</p>
   
 ### :twisted_rightwards_arrows: Conexão entre Disciplinas</h2>
 Como jurista, adquiri uma compreensão profunda das dinâmicas sociais e das regras que as regem. Essa visão singular me permite abordar a tecnologia de maneira única, buscando soluções práticas e funcionais que ressoam no cotidiano das pessoas.</p>
